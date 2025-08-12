@@ -1,2 +1,3 @@
 # Docs
-My First React project 
+
+My First React project

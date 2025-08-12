@@ -20,11 +20,13 @@ It uses **React**, **Tailwind CSS**, **Framer Motion** for drag-and-drop animati
 - **Tailwind CSS** – Styling
 - **Framer Motion** – Animations and drag functionality
 - **React Icons** – Icons for file, download, and close buttons
+![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/4892c6e3-96b9-46d8-9f73-679cdf3b26f2)
 
 ---
 
 ## 📸 Preview
 <img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/4e94ae18-24fd-4011-8dce-602be687380b" />
+
 
 ---
 
